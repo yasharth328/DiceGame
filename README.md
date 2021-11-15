@@ -1,2 +1,2 @@
 # DiceGame
-Mini Project 
+### Mini Project in EJS6.
